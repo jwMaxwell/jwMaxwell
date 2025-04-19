@@ -1,5 +1,8 @@
-<p align="right">
+<p>
   <img src="https://komarev.com/ghpvc/?username=jwMaxwell&style=flat-square&color=blue" alt="Profile views" />
+  <a href="https://www.codewars.com/users/jwmaxwell">
+    <img src="https://www.codewars.com/users/jwmaxwell/badges/small" alt="Codewars Badge" align="right" />
+  </a>
 </p>
 
 # Hello and Welcome!
@@ -12,12 +15,6 @@ I enjoy solving hard problems, optimizing performance, and learning new paradigm
 - Tooling, scripting, and automation
 - Systems programming (Rust, C, Clojure)
 - Game modding and reverse engineering
-
----
-
-## My Codewars Badge
-
-[![Codewars](https://www.codewars.com/users/jwmaxwell/badges/small)](https://www.codewars.com/users/jwmaxwell)
 
 ---
 
