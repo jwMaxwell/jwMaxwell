@@ -29,7 +29,7 @@ I enjoy solving hard problems, optimizing performance, and learning new paradigm
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jwMaxwell&show_icons=true&theme=tokyonight)](https://github.com/jwMaxwell)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jwMaxwell&show_icons=true&hide_rank=true&theme=tokyonight)](https://github.com/jwMaxwell)
 
 ---
 
